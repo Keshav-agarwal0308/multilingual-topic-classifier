@@ -12,7 +12,6 @@ The Multilingual Topic Classifier is a web-based Natural Language Processing (NL
 * Confidence score visualization for predictions
 * Interactive and user-friendly Gradio web interface
 * Support for multiple scripts and languages
-* Example inputs for quick testing
 * Topic-specific emoji representation for enhanced user experience
 
 ## Workflow
